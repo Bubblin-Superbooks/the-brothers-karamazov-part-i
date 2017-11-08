@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "The Brothers Karamazov",
-  "type": "text"
+  "name": "The Brothers Karamazov (Part-I)",
+  "type": "text",
+  "book_id": 503
 }
